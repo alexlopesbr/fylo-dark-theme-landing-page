@@ -214,7 +214,6 @@ button:hover::after {
 }
 
 /* Main -> Stay Productive*/
-
 .stayProductive {
   display: grid;
   grid-gap: 20px;
