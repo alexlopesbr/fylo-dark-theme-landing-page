@@ -195,15 +195,15 @@ button:hover::after {
 }
 
 .description img {
-  margin-top: 100px;
   height: 90px;
+  margin-top: 50px;
 }
 
 @media (min-width: 1280px) {
   #descriptions {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 100px;
+    grid-gap: 75px;
     height: 60vh;
     margin-top: 0;
     margin-bottom: 100px;
@@ -214,11 +214,10 @@ button:hover::after {
 }
 
 /* Main -> Stay Productive*/
-
 .stayProductive {
   display: grid;
   grid-gap: 20px;
-  margin: 0 auto;
+  margin: 50px auto 0 auto;
 }
 
 #stayDescription {
